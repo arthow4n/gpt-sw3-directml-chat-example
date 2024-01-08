@@ -1,0 +1,4 @@
+sentencepiece==0.1.99
+torch==2.0.0
+torch_directml==0.2.0.dev230426
+transformers==4.36.2
